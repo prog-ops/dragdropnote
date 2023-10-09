@@ -1,8 +1,13 @@
-# React + Vite
+# Drag & Drop Note
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Vite
+- React
+- Zustand
+- pnpm
+- Permanent local storage
+  
+![Screenshot_153](https://github.com/prog-ops/dragdropnote/assets/59245989/7e853ac4-32e4-4a37-a6ac-6a027f0f3a0b)
 
-Currently, two official plugins are available:
+![Screenshot_154](https://github.com/prog-ops/dragdropnote/assets/59245989/f563c419-6001-410c-95f2-bd104abf5f05)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot_155](https://github.com/prog-ops/dragdropnote/assets/59245989/6222c1de-11c0-45c5-9b41-c8efb4bf6989)
